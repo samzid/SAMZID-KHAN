@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/samzid_khan" target="blank"><img src="https://img.shields.io/twitter/follow/samzid_khan?logo=twitter&style=for-the-badge" alt="samzid_khan" /></a> </p>
 
-- 🔭 I’m currently a Final year student in the Computer Science Program **S.K Portfolio**
+- 🔭 I’m currently a Final year student in the Computer Science Program 
 
 - 🌱 I’m currently learning everything 🤣 **learning everything 🤣**
 
